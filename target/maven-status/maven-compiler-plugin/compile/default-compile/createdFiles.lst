@@ -1,0 +1,13 @@
+com/cleverbuilder/bookservice/BookService.class
+com/cleverbuilder/bookservice/package-info.class
+com/cleverbuilder/bookservice/ServerPasswordCallback.class
+com/cleverbuilder/bookservice/BookService_Service.class
+com/cleverbuilder/bookservice/BookServiceSOAPImpl.class
+com/cleverbuilder/bookservice/AddBookResponse.class
+com/cleverbuilder/bookservice/AddBook.class
+com/cleverbuilder/bookservice/GetAllBooksResponse.class
+com/cleverbuilder/bookservice/GetAllBooks.class
+com/cleverbuilder/bookservice/ObjectFactory.class
+com/cleverbuilder/bookservice/GetBook.class
+com/cleverbuilder/bookservice/GetAllBooksResponse$Book.class
+com/cleverbuilder/bookservice/GetBookResponse.class
